@@ -13,7 +13,7 @@ Not many things supported. Only calls to the registry to get all the AAS (/regis
         _aasHttpClient.OnInitializeCompleted += OnInitializeCompleted;
     }
     
-    private void OnInitializeCompleted(BaseHttpRestClient.BaseHttpRestClient.CompletedStatus status)
+    private void OnInitializeCompleted(BaseHttpRestClient.CompletedStatus status)
     {
         Debug.Log(status);
     }
