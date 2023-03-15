@@ -25,7 +25,7 @@ to get all submodel descriptors.
 
 
     GetSubmodelElements(string aasIdShort, string submodelIdShort, string id, _OnResultListSubmodelElement callback)
-To Get all submodel elements of a submodel.
+To get all submodel elements of a submodel.
 
 
     GetSubmodelElement(string aasIdShort, string submodelIdShort, string submodelElementIdShortPath, string id, _OnResultSubmodelElement callback)
