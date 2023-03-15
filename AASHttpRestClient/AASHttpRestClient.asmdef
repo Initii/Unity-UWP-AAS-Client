@@ -1,5 +1,5 @@
 {
-    "name": "MRTK2H2BC.AASHttpRestClient",
+    "name": "AASHttpRestClient",
     "rootNamespace": "",
     "references": [
         "GUID:923fac246c5798547a49911fadb9c2b2"
