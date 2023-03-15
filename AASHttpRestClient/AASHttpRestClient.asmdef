@@ -1,0 +1,16 @@
+{
+    "name": "MRTK2H2BC.AASHttpRestClient",
+    "rootNamespace": "",
+    "references": [
+        "GUID:923fac246c5798547a49911fadb9c2b2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
